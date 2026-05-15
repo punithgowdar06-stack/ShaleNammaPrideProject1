@@ -1,0 +1,31 @@
+<resources>
+
+    <string name="app_name">Shaale Namma Pride</string>
+
+    <string name="login">Login</string>
+    <string name="email">Enter Email</string>
+    <string name="password">Enter Password</string>
+
+    <string name="welcome">
+        Welcome to Shaale Namma Pride
+    </string>
+
+    <string name="continue_btn">Continue</string>
+
+    <string name="infrastructure">
+        School Infrastructure
+    </string>
+
+    <string name="meals">
+        Daily Meal Updates
+    </string>
+
+    <string name="progress">
+        Students Progress
+    </string>
+
+    <string name="feedback">
+        Parents Feedback
+    </string>
+
+</resources>

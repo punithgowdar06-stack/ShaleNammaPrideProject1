@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="15dp"
+        android:background="#FFFFFF">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="School Infrastructure"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_marginBottom="15dp" />
+
+        <GridLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:columnCount="2"
+            android:rowCount="3">
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="180dp"
+                android:layout_columnWeight="1"
+                android:layout_margin="5dp"
+                android:src="@drawable/schoola"
+                android:scaleType="centerCrop"
+                android:contentDescription="School image 1" />
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="180dp"
+                android:layout_columnWeight="1"
+                android:layout_margin="5dp"
+                android:src="@drawable/schoolb"
+                android:scaleType="centerCrop"
+                android:contentDescription="School image 2" />
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="180dp"
+                android:layout_columnWeight="1"
+                android:layout_margin="5dp"
+                android:src="@drawable/schoolc"
+                android:scaleType="centerCrop"
+                android:contentDescription="School image 3" />
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="180dp"
+                android:layout_columnWeight="1"
+                android:layout_margin="5dp"
+                android:src="@drawable/schoold"
+                android:scaleType="centerCrop"
+                android:contentDescription="School image 4" />
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="180dp"
+                android:layout_columnWeight="1"
+                android:layout_margin="5dp"
+                android:src="@drawable/schoole"
+                android:scaleType="centerCrop"
+                android:contentDescription="School image 5" />
+
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="180dp"
+                android:layout_columnWeight="1"
+                android:layout_margin="5dp"
+                android:src="@drawable/schoolf"
+                android:scaleType="centerCrop"
+                android:contentDescription="School image 6" />
+
+        </GridLayout>
+
+    </LinearLayout>
+</ScrollView>

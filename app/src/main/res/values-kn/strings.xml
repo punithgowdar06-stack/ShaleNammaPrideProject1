@@ -1,0 +1,39 @@
+<resources>
+
+    <string name="app_name">ಶಾಲೆ ನಮ್ಮ ಪ್ರೈಡ್</string>
+
+    <string name="login">ಲಾಗಿನ್</string>
+
+    <string name="email">
+        ಇಮೇಲ್ ನಮೂದಿಸಿ
+    </string>
+
+    <string name="password">
+        ಪಾಸ್ವರ್ಡ್ ನಮೂದಿಸಿ
+    </string>
+
+    <string name="welcome">
+        ಶಾಲೆ ನಮ್ಮ ಪ್ರೈಡ್ ಗೆ ಸ್ವಾಗತ
+    </string>
+
+    <string name="continue_btn">
+        ಮುಂದುವರಿಸಿ
+    </string>
+
+    <string name="infrastructure">
+        ಶಾಲೆಯ ಮೂಲಸೌಕರ್ಯ
+    </string>
+
+    <string name="meals">
+        ದೈನಂದಿನ ಊಟದ ಮಾಹಿತಿ
+    </string>
+
+    <string name="progress">
+        ವಿದ್ಯಾರ್ಥಿಗಳ ಪ್ರಗತಿ
+    </string>
+
+    <string name="feedback">
+        ಪೋಷಕರ ಪ್ರತಿಕ್ರಿಯೆ
+    </string>
+
+</resources>

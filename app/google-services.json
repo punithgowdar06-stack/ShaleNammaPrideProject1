@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "781682725646",
+    "firebase_url": "https://shalenammapride-962c8-default-rtdb.firebaseio.com",
+    "project_id": "shalenammapride-962c8",
+    "storage_bucket": "shalenammapride-962c8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781682725646:android:841fc8d1b30d92afb8bd5f",
+        "android_client_info": {
+          "package_name": "com.example.shaalenammapride"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6NZCVHaVPc93k84Y5fOfaMkPgVXbbHho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781682725646:android:9fe91165421b4b8bb8bd5f",
+        "android_client_info": {
+          "package_name": "com.example.shalenammapride"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6NZCVHaVPc93k84Y5fOfaMkPgVXbbHho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
